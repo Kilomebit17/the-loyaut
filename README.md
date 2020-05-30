@@ -1,1 +1,1 @@
-web site https://kilomebit17.github.io/the-loyaut/
+web page https://kilomebit17.github.io/the-loyaut/
